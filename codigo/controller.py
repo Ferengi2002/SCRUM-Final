@@ -1,7 +1,7 @@
 import time
 import random
-from code.model import MathModel
-from code.view import MathView
+from model import MathModel
+from view import MathView
 
 class MathController:
     """Controlador que coordina las operaciones entre el modelo y la vista."""

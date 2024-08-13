@@ -1,4 +1,10 @@
-from code.controller import MathController
+import sys
+import os
+
+# Añade la ruta de la carpeta 'code' al path
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
+from controller import MathController
 
 def main():
     while True:

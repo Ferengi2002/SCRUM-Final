@@ -1,5 +1,5 @@
 import unittest
-from code.model import MathModel
+from codigo.model import MathModel
 
 class TestMathModel(unittest.TestCase):
 

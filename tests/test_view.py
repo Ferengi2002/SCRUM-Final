@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from code.view import MathView
+from codigo.view import MathView
 
 
 class TestMathView(unittest.TestCase):

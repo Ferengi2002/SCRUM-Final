@@ -1,5 +1,7 @@
 import unittest
+
 from codigo.model import MathModel
+
 
 class TestMathModel(unittest.TestCase):
 
